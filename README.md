@@ -23,6 +23,7 @@ A curated list of blogs and websites I keep coming back to: writing on graphics,
 | [fullstackopen.com](https://fullstackopen.com/en/) | University of Helsinki | Comprehensive modern web development curriculum |
 | [sunilpai.dev](https://sunilpai.dev/) | Sunil Pai | The web, React, and building things |
 | [webgpufundamentals.org](https://webgpufundamentals.org/) | | Ground-up reference for the WebGPU API |
+| [blog.benoitvallon.com](https://blog.benoitvallon.com/) | Benoît Vallon | Practical JS tips, data structures, and sorting algorithms in JavaScript |
 
 
 ## Design, Art & Interaction
@@ -42,14 +43,8 @@ A curated list of blogs and websites I keep coming back to: writing on graphics,
 | [blog.samaltman.com](https://blog.samaltman.com/) | Sam Altman | Startups, AI, and long-range thinking |
 | [darioamodei.com](https://www.darioamodei.com/essay/the-adolescence-of-technology) | Dario Amodei | Long-form essays on technology and its consequences |
 | [bell-labs / Dennis Ritchie](https://www.nokia.com/bell-labs/about/dennis-m-ritchie/index.html) | Dennis M. Ritchie | Archive of work from the creator of C and co-creator of Unix |
+| [waitbutwhy.com](https://waitbutwhy.com/) | Tim Urban | Long-form illustrated essays on AI, procrastination, society, and the nature of everything |
 
-
-
-## Miscellaneous
-
-| Site | Notes |
-|------|-------|
-| [fuckyeahcamus.tumblr.com](https://fuckyeahcamus.tumblr.com/page/2) | Absurdism, Camus quotes, and the good kind of existential dread |
 
 
 *Last updated April 2026*
